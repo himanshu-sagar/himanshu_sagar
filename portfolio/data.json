@@ -1,0 +1,35 @@
+{
+    "name": "Himanshu Sagar",
+    "about_me": "A data driven computer science engineer🧑🏽‍💻, passionate about machine learning🧠, experienced in building AI powered right career prediction model, looking for job opportunity where I can use my experience and skills to help our society.",
+    "projects": [
+                    [
+                        "IPL Management System (C++)",
+                        "filter_drama",
+                        "C++ application to manage the data of IPL cricket match which provides functioning to store the data of players,matches played, scores,teams and live scoring system.",
+                        "https://github.com/himanshu-sagar/Youtube-Downloader"
+                    ],
+                    [
+                    "IPL Management System (C++)",
+                    "filter_drama",
+                    "C++ application to manage the data of IPL cricket match which provides functioning to store the data of players,matches played, scores,teams and live scoring system.",
+                    "https://github.com/himanshu-sagar/Youtube-Downloader"
+                    ],
+                    [
+                    "IPL Management System (C++)",
+                    "filter_drama",
+                    "C++ application to manage the data of IPL cricket match which provides functioning to store the data of players,matches played, scores,teams and live scoring system.",
+                    "https://github.com/himanshu-sagar/Youtube-Downloader"
+                    ]
+    ],
+    "skills": [
+        "Python",
+        "C++",
+        "C",
+        "Java",
+        "Machine Learning",
+        "Data Science",
+        "Data Analytics",
+        "Data Visualization",
+        "Data Mining"
+    ]
+}
